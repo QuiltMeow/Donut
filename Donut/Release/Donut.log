@@ -1,0 +1,18 @@
+﻿  Donut.h
+G:\VSProject\Donut\Donut\Donut.h(26,1): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+G:\VSProject\Donut\Donut\Donut.h(27,1): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+G:\VSProject\Donut\Donut\Donut.h(41,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\VSProject\Donut\Donut\Donut.h(42,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\VSProject\Donut\Donut\Donut.h(44,15): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  main.cpp
+G:\VSProject\Donut\Donut\Donut.h(26,1): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+G:\VSProject\Donut\Donut\Donut.h(27,1): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+G:\VSProject\Donut\Donut\Donut.h(41,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\VSProject\Donut\Donut\Donut.h(42,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\VSProject\Donut\Donut\Donut.h(44,15): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\VSProject\Donut\Donut\MainForm.h(136,1): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+G:\VSProject\Donut\Donut\MainForm.h(137,1): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  正在產生程式碼...
+  Donut.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  Donut.vcxproj -> G:\VSProject\Donut\Release\Donut.exe

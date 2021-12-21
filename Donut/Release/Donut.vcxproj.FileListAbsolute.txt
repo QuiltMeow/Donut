@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\Donut\Donut\Release\Donut.vcxprojAssemblyReference.cache
+C:\Users\USER\source\repos\Donut\Donut\Release\Donut.MainForm.resources
+C:\Users\USER\source\repos\Donut\Donut\Release\Donut.vcxproj.GenerateResource.cache
+G:\VSProject\Donut\Donut\Release\Donut.MainForm.resources
+G:\VSProject\Donut\Donut\Release\Donut.vcxproj.GenerateResource.cache
